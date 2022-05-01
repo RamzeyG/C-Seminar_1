@@ -7,7 +7,7 @@ string a = Console.ReadLine().Replace('.',',');
 
 double aa = Convert.ToDouble(a);
 
-Console.WriteLine($"Введите первое число: ");
+Console.WriteLine($"Введите второе число: ");
 
 string b = Console.ReadLine().Replace('.',',');
 
